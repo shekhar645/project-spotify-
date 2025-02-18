@@ -1,1 +1,2 @@
-spotify clone based on HTML & CSS
+spotify clone
+
